@@ -1,3 +1,5 @@
+# **Command List**
+
 |Command|Description|
 |:---:|:-----:|
-|/Help|r2|
+|/Help|Help commands|
